@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.iesalandalus.programacion.caballoajedrez.PosicionTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2018-10-21T17:32:04" hostname="Tor" time="0.06">
+  <properties/>
+  <testcase name="constructorNoValidoTest" classname="org.iesalandalus.programacion.caballoajedrez.PosicionTest" time="0.003"/>
+  <testcase name="constructorValidoTest" classname="org.iesalandalus.programacion.caballoajedrez.PosicionTest" time="0.001"/>
+  <testcase name="setColumnaNoValidaTest" classname="org.iesalandalus.programacion.caballoajedrez.PosicionTest" time="0.0"/>
+  <testcase name="constructorCopiaTest" classname="org.iesalandalus.programacion.caballoajedrez.PosicionTest" time="0.0"/>
+  <testcase name="igualdadTest" classname="org.iesalandalus.programacion.caballoajedrez.PosicionTest" time="0.0"/>
+  <testcase name="setFilaNoValidaTest" classname="org.iesalandalus.programacion.caballoajedrez.PosicionTest" time="0.0"/>
+  <testcase name="toStringTest" classname="org.iesalandalus.programacion.caballoajedrez.PosicionTest" time="0.0"/>
+  <testcase name="constructorNoValidoTest" classname="org.iesalandalus.programacion.caballoajedrez.PosicionTest" time="0.001"/>
+  <testcase name="constructorValidoTest" classname="org.iesalandalus.programacion.caballoajedrez.PosicionTest" time="0.004"/>
+  <testcase name="setColumnaNoValidaTest" classname="org.iesalandalus.programacion.caballoajedrez.PosicionTest" time="0.001"/>
+  <testcase name="constructorCopiaTest" classname="org.iesalandalus.programacion.caballoajedrez.PosicionTest" time="0.001"/>
+  <testcase name="igualdadTest" classname="org.iesalandalus.programacion.caballoajedrez.PosicionTest" time="0.0"/>
+  <testcase name="setFilaNoValidaTest" classname="org.iesalandalus.programacion.caballoajedrez.PosicionTest" time="0.003"/>
+  <testcase name="toStringTest" classname="org.iesalandalus.programacion.caballoajedrez.PosicionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
